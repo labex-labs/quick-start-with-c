@@ -9,7 +9,7 @@ In this course, you will learn the basics of C programming language. You will le
 
 ## Scenarios
 
-|   Index | Name                                          | Difficulty   | URL                                                                  |
+|   Index | Name                                          | Difficulty   | Practice                                                             |
 |---------|-----------------------------------------------|--------------|----------------------------------------------------------------------|
 |       1 | 📖 Write and Run Your First C Program          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/136074'>Start Lab</a> |
 |       2 | 📖 Read User Input                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/136075'>Start Lab</a> |
@@ -18,4 +18,9 @@ In this course, you will learn the basics of C programming language. You will le
 |       5 | 📖 Iterating String Array with C While Loop    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/136081'>Start Lab</a> |
 |       6 | 📖 Using While Loop to Find Even Numbers       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/136083'>Start Lab</a> |
 |       7 | 📖 Calculating Rectangle Area in C             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/136085'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
 

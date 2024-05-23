@@ -21,6 +21,7 @@ In this course, you will learn the basics of C programming language. You will le
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [C Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [C Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
 

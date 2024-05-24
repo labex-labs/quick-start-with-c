@@ -1,6 +1,6 @@
 # Quick Start with C
 
-![Quick Start with C](https://cover-creator.labex.io/quick-start-with-c.png)
+![Quick Start with C](https://cover-creator.appbot.io/quick-start-with-c.png)
 
 In this course, you will learn the basics of C programming language. You will learn how to write and run your first C program, read user input, read command line arguments, compare string using conditional statements, iterate a list of string using while loop, find even numbers from a list using while loop, find out the area of a rectangle using a function.
 

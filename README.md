@@ -25,15 +25,16 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                           | Difficulty   | Practice                                                                                                                |
-|---------|------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Write and Run Your First C Program          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-write-and-run-your-first-c-program-136074'>Start Lab</a>          |
-|       2 | 📖 Read User Input                             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-read-user-input-136075'>Start Lab</a>                             |
-|       3 | 📖 Read Command-Line Arguments                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-read-command-line-arguments-136077'>Start Lab</a>                 |
-|       4 | 📖 Compare String Using Conditional Statements | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-compare-string-using-conditional-statements-136079'>Start Lab</a> |
-|       5 | 📖 Iterating String Array with C While Loop    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-iterating-string-array-with-c-while-loop-136081'>Start Lab</a>    |
-|       6 | 📖 Using While Loop to Find Even Numbers       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-using-while-loop-to-find-even-numbers-136083'>Start Lab</a>       |
-|       7 | 📖 Calculating Rectangle Area in C             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-calculating-rectangle-area-in-c-136085'>Start Lab</a>             |
+|   Index | Name                                          | Difficulty   | Practice                                                                                                                |
+|---------|-----------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
+|       1 | 📖 Your First C Lab                            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-your-first-c-lab-391824'>Start Lab</a>                            |
+|       2 | 🎯 Personalized C Greeting                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-personalized-c-greeting-391828'>Start Challenge</a>               |
+|       3 | 📖 Read User Input in C                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-read-user-input-in-c-136075'>Start Lab</a>                        |
+|       4 | 📖 Read Command-Line Arguments                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-read-command-line-arguments-136077'>Start Lab</a>                 |
+|       5 | 📖 Compare String Using Conditional Statements | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-compare-string-using-conditional-statements-136079'>Start Lab</a> |
+|       6 | 📖 Iterating String Array with C While Loop    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-iterating-string-array-with-c-while-loop-136081'>Start Lab</a>    |
+|       7 | 📖 Using While Loop to Find Even Numbers       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-using-while-loop-to-find-even-numbers-136083'>Start Lab</a>       |
+|       8 | 📖 Calculating Rectangle Area in C             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-calculating-rectangle-area-in-c-136085'>Start Lab</a>             |
 
 ## More
 

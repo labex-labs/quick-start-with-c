@@ -28,7 +28,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |   Index | Name                                          | Difficulty   | Practice                                                                                                                |
 |---------|-----------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
 |       1 | 📖 Your First C Lab                            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-your-first-c-lab-391824'>Start Lab</a>                            |
-|       2 | 🎯 Personalized C Greeting                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-personalized-c-greeting-391828'>Start Challenge</a>               |
+|       2 | 🎯 Personalized C Greeting                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/c-personalized-c-greeting-391828'>Start Challenge</a>                    |
 |       3 | 📖 Read User Input in C                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-read-user-input-in-c-136075'>Start Lab</a>                        |
 |       4 | 📖 Read Command-Line Arguments                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-read-command-line-arguments-136077'>Start Lab</a>                 |
 |       5 | 📖 Compare String Using Conditional Statements | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-compare-string-using-conditional-statements-136079'>Start Lab</a> |

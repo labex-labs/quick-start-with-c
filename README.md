@@ -1,6 +1,6 @@
 # Quick Start with C
 
-[![Quick Start with C](https://cover-creator.appbot.io/quick-start-with-c.png)](https://labex.io/courses/quick-start-with-c)
+[![Quick Start with C](https://cover-creator.labex.io/quick-start-with-c.png)](https://labex.io/courses/quick-start-with-c)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/quick-start-with-c)
 
@@ -15,7 +15,7 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict “Learn by Doing” approach with exclusive hands-on labs and no videos.
+- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
@@ -25,10 +25,10 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                      | Difficulty   | Practice                                                                                                            |
-|---------|-------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Create Your First C Program in LabEx    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-create-your-first-c-program-in-labex-438241'>Start Lab</a>    |
-|      02 | 🎯 Personalized C Greeting                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/c-personalized-c-greeting-391828'>Start Challenge</a>                |
+|   Index | Name                                       | Difficulty   | Practice                                                                                                            |
+|---------|--------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Create Your First C Program in LabEx    | ★★★          | <a target='_blank' href='https://labex.io/tutorials/c-create-your-first-c-program-in-labex-438241'>Start Lab</a>    |
+|      02 | 🎯 Personalized C Greeting                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-personalized-c-greeting-391828'>Start Challenge</a>           |
 |      03 | 📖 Create User Input Program in C          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-create-user-input-program-in-c-438242'>Start Lab</a>          |
 |      04 | 📖 Basic Arithmetic Operations in C        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-basic-arithmetic-operations-in-c-438262'>Start Lab</a>        |
 |      05 | 📖 Manipulate Array Elements in C          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-manipulate-array-elements-in-c-438261'>Start Lab</a>          |

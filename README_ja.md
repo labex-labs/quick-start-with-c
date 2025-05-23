@@ -31,26 +31,26 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                            | 難易度   | 練習                                                                                                                    |
 |----------------|-------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 LabEx で最初の C プログラムを作成する        | ★★★      | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-your-first-c-program-in-labex-438241'>ラボを開始</a>    |
-|             02 | 🎯 個別化された C 言語による挨拶                | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-personalized-c-greeting-391828'>チャレンジを開始</a>           |
-|             03 | 📖 C 言語でユーザー入力プログラムを作成する     | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-user-input-program-in-c-438242'>ラボを開始</a>          |
-|             04 | 📖 C 言語における基本的な算術演算               | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-basic-arithmetic-operations-in-c-438262'>ラボを開始</a>        |
-|             05 | 📖 C 言語における配列要素の操作                 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-manipulate-array-elements-in-c-438261'>ラボを開始</a>          |
-|             06 | 📖 C 言語で二次元配列を作成する                 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-two-dimensional-arrays-in-c-438259'>ラボを開始</a>      |
-|             07 | 📖 C における意思決定構造                       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-decision-making-structures-in-c-438255'>ラボを開始</a>         |
-|             08 | 📖 C 言語における文字列を定義して操作する       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-strings-and-manipulate-them-in-c-438258'>ラボを開始</a>        |
-|             09 | 📖 C 言語で階乗計算機を作成する                 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-factorial-calculator-in-c-438256'>ラボを開始</a>        |
-|             10 | 📖 C 言語における条件付きループ                 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-conditional-loops-in-c-438260'>ラボを開始</a>                  |
-|             11 | 📖 C 言語で関数を作成する                       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-functions-in-c-438257'>ラボを開始</a>                   |
-|             12 | 📖 C 言語におけるコマンドライン引数の解析       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-parse-command-line-arguments-in-c-438243'>ラボを開始</a>       |
-|             13 | 📖 C 言語で文字列比較関数を作成する             | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-string-comparison-functions-in-c-438244'>ラボを開始</a> |
-|             14 | 📖 C 言語で文字列配列の反復処理を作成する       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-string-array-iterators-in-c-438245'>ラボを開始</a>      |
-|             15 | 📖 C 言語で偶数のリストを作成する               | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-even-numbers-list-in-c-438246'>ラボを開始</a>           |
-|             16 | 📖 C 言語で四角形の面積計算プログラムを作成する | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-a-rectangle-area-calculator-in-c-438247'>ラボを開始</a> |
+|             01 | 📖 LabEx で最初の C プログラムを作成する        | 上級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-your-first-c-program-in-labex-438241'>ラボを開始</a>    |
+|             02 | 🎯 個別化された C 言語による挨拶                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-personalized-c-greeting-391828'>チャレンジを開始</a>           |
+|             03 | 📖 C 言語でユーザー入力プログラムを作成する     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-user-input-program-in-c-438242'>ラボを開始</a>          |
+|             04 | 📖 C 言語における基本的な算術演算               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-basic-arithmetic-operations-in-c-438262'>ラボを開始</a>        |
+|             05 | 📖 C 言語における配列要素の操作                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-manipulate-array-elements-in-c-438261'>ラボを開始</a>          |
+|             06 | 📖 C 言語で二次元配列を作成する                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-two-dimensional-arrays-in-c-438259'>ラボを開始</a>      |
+|             07 | 📖 C における意思決定構造                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-decision-making-structures-in-c-438255'>ラボを開始</a>         |
+|             08 | 📖 C 言語における文字列を定義して操作する       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-strings-and-manipulate-them-in-c-438258'>ラボを開始</a>        |
+|             09 | 📖 C 言語で階乗計算機を作成する                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-factorial-calculator-in-c-438256'>ラボを開始</a>        |
+|             10 | 📖 C 言語における条件付きループ                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-conditional-loops-in-c-438260'>ラボを開始</a>                  |
+|             11 | 📖 C 言語で関数を作成する                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-functions-in-c-438257'>ラボを開始</a>                   |
+|             12 | 📖 C 言語におけるコマンドライン引数の解析       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-parse-command-line-arguments-in-c-438243'>ラボを開始</a>       |
+|             13 | 📖 C 言語で文字列比較関数を作成する             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-string-comparison-functions-in-c-438244'>ラボを開始</a> |
+|             14 | 📖 C 言語で文字列配列の反復処理を作成する       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-string-array-iterators-in-c-438245'>ラボを開始</a>      |
+|             15 | 📖 C 言語で偶数のリストを作成する               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-even-numbers-list-in-c-438246'>ラボを開始</a>           |
+|             16 | 📖 C 言語で四角形の面積計算プログラムを作成する | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-a-rectangle-area-calculator-in-c-438247'>ラボを開始</a> |
 
 ## その他
 
-- 🔗 [C Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [C Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
+- 🔗 [C プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [C プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [C 無料チュートリアル](https://github.com/labex-labs/c-free-tutorials)
 

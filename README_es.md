@@ -31,26 +31,26 @@ Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 |   Índice | Nombre                                              | Dificultad   | Práctica                                                                                                                         |
 |----------|-----------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Crea tu primer programa en C en LabEx            | ★★★          | <a target='_blank' href='https://labex.io/es/tutorials/c-create-your-first-c-program-in-labex-438241'>Iniciar Laboratorio</a>    |
-|       02 | 🎯 Saludo personalizado en C                        | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/c-personalized-c-greeting-391828'>Iniciar Desafío</a>                     |
-|       03 | 📖 Crear un programa de entrada de usuario en C     | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/c-create-user-input-program-in-c-438242'>Iniciar Laboratorio</a>          |
-|       04 | 📖 Operaciones Aritméticas Básicas en C             | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/c-basic-arithmetic-operations-in-c-438262'>Iniciar Laboratorio</a>        |
-|       05 | 📖 Manipular elementos de arrays en C               | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/c-manipulate-array-elements-in-c-438261'>Iniciar Laboratorio</a>          |
-|       06 | 📖 Crear matrices bidimensionales en C              | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/c-create-two-dimensional-arrays-in-c-438259'>Iniciar Laboratorio</a>      |
-|       07 | 📖 Estructuras de Toma de Decisiones en C           | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/c-decision-making-structures-in-c-438255'>Iniciar Laboratorio</a>         |
-|       08 | 📖 Cadenas (Strings) y Manipulación de Cadenas en C | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/c-strings-and-manipulate-them-in-c-438258'>Iniciar Laboratorio</a>        |
-|       09 | 📖 Crear una calculadora de factoriales en C        | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/c-create-factorial-calculator-in-c-438256'>Iniciar Laboratorio</a>        |
-|       10 | 📖 Bucles condicionales en C                        | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/c-conditional-loops-in-c-438260'>Iniciar Laboratorio</a>                  |
-|       11 | 📖 Crear Funciones en C                             | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/c-create-functions-in-c-438257'>Iniciar Laboratorio</a>                   |
-|       12 | 📖 Analizar Argumentos de Línea de Comandos en C    | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/c-parse-command-line-arguments-in-c-438243'>Iniciar Laboratorio</a>       |
-|       13 | 📖 Crear funciones de comparación de cadenas en C   | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/c-create-string-comparison-functions-in-c-438244'>Iniciar Laboratorio</a> |
-|       14 | 📖 Crear iteradores de matrices de cadenas en C     | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/c-create-string-array-iterators-in-c-438245'>Iniciar Laboratorio</a>      |
-|       15 | 📖 Crear una lista de números pares en C            | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/c-create-even-numbers-list-in-c-438246'>Iniciar Laboratorio</a>           |
-|       16 | 📖 Crear una calculadora de área de rectángulo en C | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/c-create-a-rectangle-area-calculator-in-c-438247'>Iniciar Laboratorio</a> |
+|       01 | 📖 Crea tu primer programa en C en LabEx            | Avanzado     | <a target='_blank' href='https://labex.io/es/tutorials/c-create-your-first-c-program-in-labex-438241'>Iniciar Laboratorio</a>    |
+|       02 | 🎯 Saludo personalizado en C                        | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/c-personalized-c-greeting-391828'>Iniciar Desafío</a>                     |
+|       03 | 📖 Crear un programa de entrada de usuario en C     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/c-create-user-input-program-in-c-438242'>Iniciar Laboratorio</a>          |
+|       04 | 📖 Operaciones Aritméticas Básicas en C             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/c-basic-arithmetic-operations-in-c-438262'>Iniciar Laboratorio</a>        |
+|       05 | 📖 Manipular elementos de arrays en C               | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/c-manipulate-array-elements-in-c-438261'>Iniciar Laboratorio</a>          |
+|       06 | 📖 Crear matrices bidimensionales en C              | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/c-create-two-dimensional-arrays-in-c-438259'>Iniciar Laboratorio</a>      |
+|       07 | 📖 Estructuras de Toma de Decisiones en C           | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/c-decision-making-structures-in-c-438255'>Iniciar Laboratorio</a>         |
+|       08 | 📖 Cadenas (Strings) y Manipulación de Cadenas en C | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/c-strings-and-manipulate-them-in-c-438258'>Iniciar Laboratorio</a>        |
+|       09 | 📖 Crear una calculadora de factoriales en C        | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/c-create-factorial-calculator-in-c-438256'>Iniciar Laboratorio</a>        |
+|       10 | 📖 Bucles condicionales en C                        | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/c-conditional-loops-in-c-438260'>Iniciar Laboratorio</a>                  |
+|       11 | 📖 Crear Funciones en C                             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/c-create-functions-in-c-438257'>Iniciar Laboratorio</a>                   |
+|       12 | 📖 Analizar Argumentos de Línea de Comandos en C    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/c-parse-command-line-arguments-in-c-438243'>Iniciar Laboratorio</a>       |
+|       13 | 📖 Crear funciones de comparación de cadenas en C   | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/c-create-string-comparison-functions-in-c-438244'>Iniciar Laboratorio</a> |
+|       14 | 📖 Crear iteradores de matrices de cadenas en C     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/c-create-string-array-iterators-in-c-438245'>Iniciar Laboratorio</a>      |
+|       15 | 📖 Crear una lista de números pares en C            | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/c-create-even-numbers-list-in-c-438246'>Iniciar Laboratorio</a>           |
+|       16 | 📖 Crear una calculadora de área de rectángulo en C | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/c-create-a-rectangle-area-calculator-in-c-438247'>Iniciar Laboratorio</a> |
 
 ## Más
 
-- 🔗 [C Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [C Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
+- 🔗 [C Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [C Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [C Tutoriales Gratuitos](https://github.com/labex-labs/c-free-tutorials)
 

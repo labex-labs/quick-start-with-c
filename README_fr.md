@@ -13,6 +13,27 @@ Dans ce cours, vous apprendrez les bases du langage de programmation C. Vous dé
 ![C](https://img.shields.io/badge/C-whitesmoke?style=for-the-badge&logo=c)
 
 
+## Exercices
+
+|   Index | Nom                                                         | Difficulté   | Pratique                                                                                                                      |
+|---------|-------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 🟢 Créez votre premier programme C sur LabEx             | Avancé       | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-your-first-c-program-in-labex-438241'>Commencer le Lab</a>    |
+|      02 | 🎯 🟢 Salutation personnalisée en C                         | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-personalized-c-greeting-391828'>Commencer le Défi</a>                |
+|      03 | 📖 🟢 Créer un programme de saisie utilisateur en C         | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-user-input-program-in-c-438242'>Commencer le Lab</a>          |
+|      04 | 📖 🟢 Opérations arithmétiques de base en C                 | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-basic-arithmetic-operations-in-c-438262'>Commencer le Lab</a>        |
+|      05 | 📖 🟢 Manipuler les éléments de tableau en C                | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-manipulate-array-elements-in-c-438261'>Commencer le Lab</a>          |
+|      06 | 📖 🟢 Créer des tableaux bidimensionnels en C               | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-two-dimensional-arrays-in-c-438259'>Commencer le Lab</a>      |
+|      07 | 📖 🟢 Structures de prise de décision en C                  | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-decision-making-structures-in-c-438255'>Commencer le Lab</a>         |
+|      08 | 📖 🟢 Chaînes de caractères et leur manipulation en C       | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-strings-and-manipulate-them-in-c-438258'>Commencer le Lab</a>        |
+|      09 | 📖 🟢 Créer une calculatrice de factorielle en C            | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-factorial-calculator-in-c-438256'>Commencer le Lab</a>        |
+|      10 | 📖 🟢 Boucles conditionnelles en C                          | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-conditional-loops-in-c-438260'>Commencer le Lab</a>                  |
+|      11 | 📖 🔵 Créer des fonctions en C                              | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-functions-in-c-438257'>Commencer le Lab</a>                   |
+|      12 | 📖 🔵 Analyser les arguments de ligne de commande en C      | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-parse-command-line-arguments-in-c-438243'>Commencer le Lab</a>       |
+|      13 | 📖 🔵 Créer des fonctions de comparaison de chaînes en C    | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-string-comparison-functions-in-c-438244'>Commencer le Lab</a> |
+|      14 | 📖 🔵 Créer des itérateurs pour des tableaux de chaînes ... | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-string-array-iterators-in-c-438245'>Commencer le Lab</a>      |
+|      15 | 📖 🔵 Créer une liste de nombres pairs en C                 | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-even-numbers-list-in-c-438246'>Commencer le Lab</a>           |
+|      16 | 📖 🔵 Créer un calculateur d'aire de rectangle en C         | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-a-rectangle-area-calculator-in-c-438247'>Commencer le Lab</a> |
+
 ## Environnement
 
 LabEx est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo.
@@ -23,30 +44,9 @@ LabEx est une plateforme d'apprentissage interactive et pratique dédiée au cod
 - Des environnements en ligne interactifs dans le navigateur, avec des vérifications automatisées étape par étape.
 - Une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences.
 - Une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires.
-- L'assistant d'apprentissage IA Labby, construit sur ChatGPT, offrant une expérience d'apprentissage conversationnelle.
+- L'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
 
 En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Exercices
-
-|   Index | Nom                                                      | Difficulté   | Pratique                                                                                                                      |
-|---------|----------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Créez votre premier programme C sur LabEx             | Avancé       | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-your-first-c-program-in-labex-438241'>Commencer le Lab</a>    |
-|      02 | 🎯 Salutation personnalisée en C                         | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-personalized-c-greeting-391828'>Commencer le Défi</a>                |
-|      03 | 📖 Créer un programme de saisie utilisateur en C         | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-user-input-program-in-c-438242'>Commencer le Lab</a>          |
-|      04 | 📖 Opérations arithmétiques de base en C                 | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-basic-arithmetic-operations-in-c-438262'>Commencer le Lab</a>        |
-|      05 | 📖 Manipuler les éléments de tableau en C                | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-manipulate-array-elements-in-c-438261'>Commencer le Lab</a>          |
-|      06 | 📖 Créer des tableaux bidimensionnels en C               | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-two-dimensional-arrays-in-c-438259'>Commencer le Lab</a>      |
-|      07 | 📖 Structures de prise de décision en C                  | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-decision-making-structures-in-c-438255'>Commencer le Lab</a>         |
-|      08 | 📖 Chaînes de caractères et leur manipulation en C       | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-strings-and-manipulate-them-in-c-438258'>Commencer le Lab</a>        |
-|      09 | 📖 Créer une calculatrice de factorielle en C            | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-factorial-calculator-in-c-438256'>Commencer le Lab</a>        |
-|      10 | 📖 Boucles conditionnelles en C                          | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-conditional-loops-in-c-438260'>Commencer le Lab</a>                  |
-|      11 | 📖 Créer des fonctions en C                              | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-functions-in-c-438257'>Commencer le Lab</a>                   |
-|      12 | 📖 Analyser les arguments de ligne de commande en C      | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-parse-command-line-arguments-in-c-438243'>Commencer le Lab</a>       |
-|      13 | 📖 Créer des fonctions de comparaison de chaînes en C    | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-string-comparison-functions-in-c-438244'>Commencer le Lab</a> |
-|      14 | 📖 Créer des itérateurs pour des tableaux de chaînes ... | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-string-array-iterators-in-c-438245'>Commencer le Lab</a>      |
-|      15 | 📖 Créer une liste de nombres pairs en C                 | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-even-numbers-list-in-c-438246'>Commencer le Lab</a>           |
-|      16 | 📖 Créer un calculateur d'aire de rectangle en C         | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-a-rectangle-area-calculator-in-c-438247'>Commencer le Lab</a> |
 
 ## Plus
 
